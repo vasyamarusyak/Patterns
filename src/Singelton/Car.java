@@ -3,15 +3,17 @@ package Singelton;
 import java.util.Objects;
 
 class Car {
-    public String name = "Mazda";
-    public int age = 100;
+    public static String name;
+    public static int age;
 
     private static Car car = new Car();
 
     private Car() {
     }
 
-    public static Car getObject() {
+    public static Car getObject(int age, String name) {
+        Car.age = age;
+        Car.name = name;
         return car;
     }
 
