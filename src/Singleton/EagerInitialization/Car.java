@@ -1,8 +1,8 @@
-package Singelton;
+package Singleton.EagerInitialization;
 
 import java.util.Objects;
 
-class Car {
+public class  Car {
     public static String name;
     public static int age;
 
