@@ -1,6 +1,8 @@
-package AbstractFactory;
-
-import FactoryFromBook.AbstractFactory.PizzaStyles.Veggies;
+package FactoryFromBook.AbstractFactory;
 
 public class BlackOlives implements Veggies {
+
+	public String toString() {
+		return "Black Olives";
+	}
 }

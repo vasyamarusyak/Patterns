@@ -1,6 +1,7 @@
 package FactoryFromBook.AbstractFactory;
 
-import FactoryFromBook.AbstractFactory.PizzaStyles.Dough;
-
 public class ThickCrustDough implements Dough {
+	public String toString() {
+		return "ThickCrust style extra thick crust dough";
+	}
 }

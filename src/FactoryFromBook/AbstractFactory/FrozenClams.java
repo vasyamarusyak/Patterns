@@ -1,6 +1,9 @@
 package FactoryFromBook.AbstractFactory;
 
-import FactoryFromBook.AbstractFactory.PizzaStyles.Clams;
 
 public class FrozenClams implements Clams {
+
+	public String toString() {
+		return "Frozen Clams from Chesapeake Bay";
+	}
 }

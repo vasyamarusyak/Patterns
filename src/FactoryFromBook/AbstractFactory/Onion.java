@@ -1,6 +1,8 @@
-package AbstractFactory;
-
-import FactoryFromBook.AbstractFactory.PizzaStyles.Veggies;
+package FactoryFromBook.AbstractFactory;
 
 public class Onion implements Veggies {
+
+	public String toString() {
+		return "Onion";
+	}
 }

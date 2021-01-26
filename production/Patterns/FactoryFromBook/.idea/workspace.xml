@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0bcecbb-fbf0-49ff-9848-972a518a0c41" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/FactoryFromBook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory/ChicagoPizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/BlackOlives.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/BlackOlives.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/CheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/CheesePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/ChicagoPizzaIngredientFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/ChicagoPizzaIngredientFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/ClamPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/ClamPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/Eggplant.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/Eggplant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/FreshClams.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/FreshClams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/FrozenClams.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/FrozenClams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/Garlic.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/Garlic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/MarinaraSauce.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/MarinaraSauce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/MozzarellaCheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/MozzarellaCheese.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/Mushroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/Mushroom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/NYPizzaIngredientFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/NYPizzaIngredientFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/NYStylePizzaStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/Onion.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/Onion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/PizzaIngredientFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/PizzaIngredientFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/PizzaStyles/Cheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/Cheese.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/PizzaStyles/ChicagoStyleClamPizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/PizzaStyles/ChicagoStylePapperoniPizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/PizzaStyles/ChicagoStyleVeggiePizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/PizzaStyles/Clams.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/Clams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/PizzaStyles/Dough.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/Dough.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/PizzaStyles/NYStyleClamPizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/PizzaStyles/NYStylePapperoniPizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/PizzaStyles/NYStyleVeggiePizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/PizzaStyles/Pepperoni.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/Pepperoni.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/PizzaStyles/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/PizzaStyles/Sauce.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/Sauce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/PizzaStyles/Veggies.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/Veggies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/PizzaTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/PizzaTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/PlumTomatoSauce.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/PlumTomatoSauce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/RedPepper.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/RedPepper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/ReggianoCheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/ReggianoCheese.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/SlicedPepperoni.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/SlicedPepperoni.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/Spinach.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/Spinach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/Stores/ChicagoStylePizzaStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/Stores/NYStylePizzaStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/Stores/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/PizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/ThickCrustDough.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/ThickCrustDough.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactory/ThinCrustDough.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/ThinCrustDough.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryFromBook.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/pizzaaf.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1nbFiumSY2GV76njH2EBraPD67K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="FactoryMethod.FactoryMethod" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0bcecbb-fbf0-49ff-9848-972a518a0c41" name="Default Changelist" comment="" />
+      <created>1611651014064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611651014064</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

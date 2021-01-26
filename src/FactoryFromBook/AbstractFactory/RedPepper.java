@@ -1,6 +1,8 @@
 package FactoryFromBook.AbstractFactory;
 
-import FactoryFromBook.AbstractFactory.PizzaStyles.Veggies;
-
 public class RedPepper implements Veggies {
+
+	public String toString() {
+		return "Red Pepper";
+	}
 }

@@ -1,6 +1,8 @@
 package FactoryFromBook.AbstractFactory;
 
-import FactoryFromBook.AbstractFactory.PizzaStyles.Pepperoni;
-
 public class SlicedPepperoni implements Pepperoni {
+
+	public String toString() {
+		return "Sliced Pepperoni";
+	}
 }
