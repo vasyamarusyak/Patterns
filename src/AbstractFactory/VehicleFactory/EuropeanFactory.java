@@ -1,10 +1,11 @@
-package AbstractFactory.AbstractFactoryForCertainProduct;
+package AbstractFactory.VehicleFactory;
 
-import AbstractFactory.AbstractFactory;
+import AbstractFactory.BindedProducts.Bike;
 import AbstractFactory.BindedProducts.Car;
 import AbstractFactory.BindedProducts.Truck;
-import AbstractFactory.DifferentRealizationOfProducts.EuropeanCar;
-import AbstractFactory.DifferentRealizationOfProducts.EuropeanTruck;
+import AbstractFactory.CertainRealizationOfVehicles.EuropeanBike;
+import AbstractFactory.CertainRealizationOfVehicles.EuropeanCar;
+import AbstractFactory.CertainRealizationOfVehicles.EuropeanTruck;
 
 public class EuropeanFactory implements AbstractFactory {
     @Override
@@ -19,4 +20,9 @@ public class EuropeanFactory implements AbstractFactory {
         return new EuropeanTruck();
     }
 
+    @Override
+    public Bike createBike() {
+        System.out.println("Creating Bike from European Factory");
+        return new EuropeanBike();
+    }
 }

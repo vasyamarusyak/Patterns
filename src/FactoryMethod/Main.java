@@ -10,9 +10,9 @@ public class Main {
         CarFactory europeanCarFactory = new EuropeanCarFactory();
         CarFactory americanCarFactory = new AmericanCarFactory();
 
-        Car car = europeanCarFactory.getCar(CarType.TRUCK);
-        car = europeanCarFactory.getCar(CarType.SEDAN);
-        car = americanCarFactory.getCar(CarType.TRUCK);
-        car = americanCarFactory.getCar(CarType.SEDAN);
+        europeanCarFactory.getCar(CarType.TRUCK);
+        europeanCarFactory.getCar(CarType.SEDAN);
+        americanCarFactory.getCar(CarType.TRUCK);
+        americanCarFactory.getCar(CarType.SEDAN);
     }
 }

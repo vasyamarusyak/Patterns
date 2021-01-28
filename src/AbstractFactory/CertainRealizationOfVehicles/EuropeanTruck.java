@@ -1,4 +1,4 @@
-package AbstractFactory.DifferentRealizationOfProducts;
+package AbstractFactory.CertainRealizationOfVehicles;
 
 import AbstractFactory.BindedProducts.Truck;
 

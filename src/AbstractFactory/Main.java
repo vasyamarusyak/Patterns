@@ -1,21 +1,27 @@
 package AbstractFactory;
 
-import AbstractFactory.AbstractFactoryForCertainProduct.AmericanFactory;
-import AbstractFactory.AbstractFactoryForCertainProduct.EuropeanFactory;
+import AbstractFactory.BindedProducts.Bike;
+import AbstractFactory.BindedProducts.Car;
+import AbstractFactory.VehicleFactory.AbstractFactory;
+import AbstractFactory.VehicleFactory.AmericanFactory;
+import AbstractFactory.VehicleFactory.EuropeanFactory;
+import AbstractFactoryWebSite.Developer;
+import AbstractFactoryWebSite.banking.BankingTeamFactory;
 
 public class Main {
-    public CreateCertainFamily createCertainFamily;
-
-    public void createFamily() {
-        AbstractFactory carFactory = new AmericanFactory();
-        AbstractFactory carFactory2 = new EuropeanFactory();
-
-        createCertainFamily = new CreateCertainFamily(carFactory);
-        createCertainFamily = new CreateCertainFamily(carFactory2);
-    }
     public static void main(String[] args) {
-        Main main = new Main();
-        main.createFamily();
+        AbstractFactory americanFactory = new AmericanFactory();
+        AbstractFactory europeanFactory = new EuropeanFactory();
+        System.out.println("----------- BIKES-----------");
+        Bike bike = americanFactory.createBike();
+        bike.ridingBike();
+        bike = europeanFactory.createBike();
+        bike.ridingBike();
 
+        System.out.println("----------- CARS-----------");
+        Car car = americanFactory.createCar();
+        car.pullingCar();
+        car = europeanFactory.createCar();
+        car.pullingCar();
     }
 }
