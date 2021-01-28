@@ -2,51 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0bcecbb-fbf0-49ff-9848-972a518a0c41" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/FactoryFromBook.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/ChicagoPizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/BlackOlives.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/BlackOlives.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/CheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/CheesePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/ChicagoPizzaIngredientFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/ChicagoPizzaIngredientFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/ClamPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/ClamPizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/Eggplant.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/Eggplant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/FreshClams.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/FreshClams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/FrozenClams.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/FrozenClams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/Garlic.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/Garlic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/MarinaraSauce.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/MarinaraSauce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/MozzarellaCheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/MozzarellaCheese.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/Mushroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/Mushroom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/NYPizzaIngredientFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/NYPizzaIngredientFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/NYStylePizzaStore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/Onion.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/Onion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/PizzaIngredientFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/PizzaIngredientFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/PizzaStyles/Cheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/Cheese.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/PizzaStyles/ChicagoStyleClamPizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/PizzaStyles/ChicagoStylePapperoniPizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/PizzaStyles/ChicagoStyleVeggiePizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/PizzaStyles/Clams.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/Clams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/PizzaStyles/Dough.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/Dough.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/PizzaStyles/NYStyleClamPizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/PizzaStyles/NYStylePapperoniPizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/PizzaStyles/NYStyleVeggiePizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/PizzaStyles/Pepperoni.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/Pepperoni.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/PizzaStyles/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/Pizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/PizzaStyles/Sauce.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/Sauce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/PizzaStyles/Veggies.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/Veggies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/PizzaTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/PizzaTestDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/PlumTomatoSauce.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/PlumTomatoSauce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/RedPepper.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/RedPepper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/ReggianoCheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/ReggianoCheese.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/SlicedPepperoni.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/SlicedPepperoni.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/Spinach.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/Spinach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/Stores/ChicagoStylePizzaStore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/Stores/NYStylePizzaStore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/Stores/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/PizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/ThickCrustDough.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/ThickCrustDough.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/ThinCrustDough.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/ThinCrustDough.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryFromBook.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactory/pizzaaf.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/PizzaStyles/ChicagoStyleCheesePizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/PizzaStyles/ChicagoStyleClamPizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/PizzaStyles/ChicagoStylePapperoniPizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/PizzaStyles/ChicagoStyleVeggiePizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/PizzaStyles/NYStyleCheesePizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/PizzaStyles/NYStyleClamPizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/PizzaStyles/NYStylePapperoniPizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/PizzaStyles/NYStyleVeggiePizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/PizzaStyles/Pizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/PizzaTestDrive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/Stores/ChicagoStylePizzaStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/Stores/NYStylePizzaStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/Stores/PizzaStore.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
